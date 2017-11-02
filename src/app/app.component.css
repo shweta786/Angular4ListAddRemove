@@ -1,0 +1,52 @@
+.main {
+    text-align: center;
+    font-family: cursive;
+    border: 2px solid #d7d7d7;
+    width: 400px;
+    margin: 0 auto;
+    border-bottom: 0px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(42, 140, 165);
+    margin-top: 0px;
+    color: wheat;
+}
+
+.addItem{
+    position: relative;
+}
+
+.addText {
+    width: 80%;
+    font-size: 15px;
+}
+
+.addItem button{
+    height: 27px;
+    width: 50px;
+    cursor: pointer;
+}
+
+ul{
+   list-style: none;
+   font-size: 15px;
+   color: #686868; 
+   margin-left: -40px;
+   margin-bottom: 0px;
+}
+
+li {
+    border-bottom: 1px solid #bfbfbf;
+    background-color: #d7d7d7;
+    padding: 10px 0px;
+    margin-bottom: 5px;
+}
+
+span {
+    cursor: pointer;
+    position: relative;
+    float: right;
+    margin-right: 10px;
+}
